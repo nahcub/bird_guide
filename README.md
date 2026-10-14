@@ -20,3 +20,15 @@ flowchart TD
     D --> D1["검독수리"] & D2["독수리"] & D3["뱀잡이수리"] & D4["참매"] & D5["흰머리수리"]
     E --> E1["회색앵무"]
 ```
+
+## 2. Contributor
+
+
+| 담당 | GitHub |
+|------|--------|
+| 기러기목 | [@ppowwiuu](https://github.com/ppowwiuu) |
+| 닭목 | [@hy87412](https://github.com/hy87412) |
+| 도요목 | [@3414401](https://github.com/3414401) |
+| 수리목 | [@nahcub](https://github.com/nahcub) |
+| 앵무목 | [@gguak](https://github.com/gguak) |
+| 참새목 | [@mskwak04](https://github.com/mskwak04) |
